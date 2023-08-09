@@ -1,1 +1,9 @@
-This is the sentimental analysist of twitter dataset in which we have evaluated calculated the sentiments of twitter data
+The Following is the Twitter Sentimental Analysis has following information:
+
+MODEL USED: Logistic Regression()
+LANGUAGE: Python
+DATASET: Twitter
+ACCURACY: 94%
+
+The Colab file contain all the links  related to guidace of preprocessing steps also with relavant link
+
